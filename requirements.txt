@@ -1,0 +1,9 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-CORS==4.0.1
+python-dotenv==1.0.1
+Werkzeug==3.0.4
+requests==2.32.3
+PyMySQL==1.1.1
+gunicorn==27.0.1
+psycopg[binary]==3.3.9
